@@ -17,3 +17,12 @@ button {
       width: 25px;
       /* margin: 5px 5px 5px 5px; */
   }
+
+  .header {
+    text-align: center;
+  }
+
+  .text {
+    text-align: center;
+  }
+

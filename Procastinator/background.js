@@ -1,3 +1,3 @@
 chrome.runtime.onInstalled.addListener(() => {
-  console.log('Procrasination is not the same thing as lazy!');
+  console.log('Procrasination is not the same thing as laziness!');
 });
