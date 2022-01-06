@@ -1,0 +1,25 @@
+{
+    "name": "Procrastinator",
+    "description": "procrastinate is life",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["storage", "activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "/images/procastinator.png",
+            "32": "/images/procastinator.png",
+            "48": "/images/procastinator.png",
+            "128": "/images/procastinator.png"
+            }
+      },
+     "icons": {
+         "16": "/images/procastinator.png",
+         "32": "/images/procastinator.png",
+         "48": "/images/procastinator.png",
+         "128": "/images/procastinator.png"
+     }
+}
