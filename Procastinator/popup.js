@@ -1,4 +1,4 @@
-let procastinator = document.getElementById("procastinator");
+let procastinator = document.getElementById("bt");
 
 procastinator.addEventListener("click", async () => {
 
